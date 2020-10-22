@@ -1,2 +1,2 @@
 # e-commerce-app
-[dribbble](https://dribbble.com/signup/new)
+Check --> [dribbble](https://dribbble.com/signup/new) for wireframes and layout.
